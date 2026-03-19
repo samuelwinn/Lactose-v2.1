@@ -37,7 +37,7 @@ export default function App() {
             <Gamepad2 className="text-black w-6 h-6" />
           </div>
           <div>
-            <h1 className="text-xl font-bold tracking-tight">UNBLOCKED<span className="text-emerald-500">HUB</span></h1>
+            <h1 className="text-xl font-bold tracking-tight">LACTOSE<span className="text-emerald-500"> v2.1</span></h1>
             <p className="text-[10px] uppercase tracking-[0.2em] text-zinc-500 font-medium">Premium Gaming Experience</p>
           </div>
         </div>

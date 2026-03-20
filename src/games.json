@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "id": "smash-karts",
+    "title": "Smash Karts",
+    "description": "A fast-paced 3D multiplayer kart battle game. Drive your go-kart, pick up random weapons like missiles and mines, and blow up other players.",
+    "thumbnail": "https://images.crazygames.com/smash-karts/20201215121512/smash-karts-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "url": "https://www.crazygames.com/game/smash-karts"
+  },
+  {
+    "id": "skillwarz",
+    "title": "SkillWarz",
+    "description": "A high-octane first-person shooter featuring advanced movement mechanics. Compete in various modes like Deathmatch and Gun Game.",
+    "thumbnail": "https://images.crazygames.com/skillwarz/20241119101010/skillwarz-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "url": "https://www.crazygames.com/game/skillwarz"
+  },
+  {
+    "id": "bloxd-io",
+    "title": "Bloxd.io",
+    "description": "A massive multiplayer IO game with Minecraft-style graphics. It features parkour, creative building, and survival combat.",
+    "thumbnail": "https://images.crazygames.com/bloxd-io/20210315151515/bloxd-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "url": "https://www.crazygames.com/game/bloxd-io"
+  },
+  {
+    "id": "paper-io-2",
+    "title": "Paper.io 2",
+    "description": "The ultimate territory capture game. Paint the map in your color to expand your area and capture the leaderboard.",
+    "thumbnail": "https://images.crazygames.com/paper-io-2/20190315151515/paper-io-2-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "url": "https://www.crazygames.com/game/paper-io-2"
+  },
+  {
+    "id": "shell-shockers",
+    "title": "Shell Shockers",
+    "description": "The world's most popular egg-based FPS. Play as an armed egg and shatter your opponents with a variety of weapons.",
+    "thumbnail": "https://images.crazygames.com/shellshockersio/20211201120112/shellshockersio-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "url": "https://www.crazygames.com/game/shellshockersio"
+  },
+  {
+    "id": "venge-io",
+    "title": "Venge.io",
+    "description": "A hero-based objective shooter. Capture points to unlock special abilities and cards that enhance your combat effectiveness.",
+    "thumbnail": "https://images.crazygames.com/venge-io/20200615151515/venge-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "url": "https://www.crazygames.com/game/venge-io"
+  },
+  {
+    "id": "pixel-warfare",
+    "title": "Pixel Warfare",
+    "description": "A classic block-style FPS that offers a retro 8-bit experience. Join active game rooms and battle players worldwide.",
+    "thumbnail": "https://images.crazygames.com/pixel-warfare/20260205151515/pixel-warfare-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "url": "https://www.crazygames.com/game/pixel-warfare"
+  },
+  {
+    "id": "ragdoll-archers",
+    "title": "Ragdoll Archers",
+    "description": "A physics-based archery game where you control a stickman archer. Use various arrow types and upgrade your stats.",
+    "thumbnail": "https://images.crazygames.com/ragdoll-archers/20230815151515/ragdoll-archers-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "url": "https://www.crazygames.com/game/ragdoll-archers"
+  },
+  {
+    "id": "the-secret-service",
+    "title": "The Secret Service",
+    "description": "A quirky simulation game where you play as a Secret Service agent protecting the president in hilarious scenarios.",
+    "thumbnail": "https://images.crazygames.com/the-secret-service-zvf/20250812121212/the-secret-service-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "url": "https://www.crazygames.com/game/the-secret-service-zvf"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "description": "Jump and fly your way through danger in this rhythm-based action platformer! Challenge yourself with nearly impossible levels.",
+    "thumbnail": "https://images.crazygames.com/geometry-dash-v-2-1/20240101010101/geometry-dash-v-2-1-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "url": "https://www.crazygames.com/game/geometry-dash-v-2-1"
+  }
+]
